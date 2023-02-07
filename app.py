@@ -2,6 +2,8 @@ from flask import Flask, render_template
 import os
 import random
 
+import numpy
+
 app = Flask(__name__)
 
 # list of cat images
