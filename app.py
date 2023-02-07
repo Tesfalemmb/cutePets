@@ -2,7 +2,7 @@ from flask import Flask, render_template
 import os
 import random
 
-import numpy
+#import numpy
 
 app = Flask(__name__)
 
